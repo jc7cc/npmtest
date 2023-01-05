@@ -6,6 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jc7cc/npmtest.git"
+  },
   "author": "jc7cc",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jc7cc/npmtest/issues"
+  },
+  "homepage": "https://github.com/jc7cc/npmtest#readme"
 }
